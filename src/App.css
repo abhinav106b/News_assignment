@@ -1,10 +1,87 @@
 .App {
   text-align: center;
 }
-
+.text-center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-width{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90%;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-head{
+  font-size: larger;
+  font-weight: 700;
+  color: #282c34;
+  text-decoration: none;
+}
+.text-head:hover{
+  text-decoration: none;
+  color: rgb(219, 31, 169);
+}
+.Link:hover{
+  text-decoration: none;
+}
+.card-img{
+  height: 80%;
+  width: 90%;
+}
+.nav-txt{
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  padding-top: 10px;
+}
+.news-img{
+  width: 60%;
+  height: 40%;
+}
+.news-card{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.brd-bck{
+  color: rgb(26, 24, 22);
+  font-size: 20px;
+  font-weight: 500;
+}
+.brd-blue{
+  color: blue;
+  font-size: 20px;
+  font-weight: 500;
+}
+.text-left{
+  text-align: left;
+}
+.text-blue{
+  color: rgb(7, 192, 47);
+  font-weight: 500;
+}
+.news-text{
+  font-size: large;
+  font-weight: 450;
+}
+.text-news-head{
+  font-size: x-large;
+  font-weight: 700;
+}
+.row-header{
+  height: 100px;
+  background-color: rgb(109, 150, 226);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.home-bck{
+  background-color: rgb(240, 236, 236);
 }
 
 @media (prefers-reduced-motion: no-preference) {
